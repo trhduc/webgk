@@ -1,0 +1,149 @@
+html{
+
+}
+.header{
+	width: 98%;
+	height:80px;
+	margin-bottom: 1%;
+	margin: 15px;
+}
+
+.menu{
+	width: 98.17%;
+	height: 40px;
+	margin-top: 0.5%;
+	margin-bottom: 0.5%;
+	float: left;
+}
+.center{
+	border: 1px solid black;
+}
+.content{
+	border: 1px solid black; 
+	border-right: 0px;
+	width: 70%;
+	float: left;
+	margin-bottom: 0.5%;
+	padding:  8px;
+
+}
+.content img{
+	float: left;
+}
+.h1{
+	margin: 10px;
+	float: left;
+	margin-left: 0px;
+}
+hr{
+	margin-top: -15px;
+	size: 1px;
+}
+.rightmenu{
+	border: 1px solid black; 
+	border-left:  0px;
+	width: 23%;
+	height: 917px;
+	float: left;
+	padding:10px;
+	padding-right: 10px;
+	padding-left: 70px;
+}
+.footer{
+	margin: 0px;
+	border: 1px solid black;
+	padding:  10px;
+	width: 98%;
+	float: left;
+}
+button{
+	border-radius: 5px;
+	background-color: blue;
+	float: right;
+	padding: 6px;
+	margin: 5px;
+	color: white;
+}
+.link{
+	padding-left: 2px;
+	float:right;
+}
+a:link{
+	text-decoration: none;
+}
+.menu ul{
+	float: left;
+	list-style-type: none;
+    margin: 0px;
+    padding: 10px;
+    width: 100%;
+    background-color: #088A08;
+    position: sticky;
+    top: 0;
+    overflow: hidden;
+}
+.menu li a{
+	float: left;
+	display: block;
+    color: #FFFFFF;
+    padding: 8px 16px;
+    font-size: 20px;
+    text-decoration: none;
+}
+li a:hover:not(.active) {
+    background-color: #111;
+}
+.title{
+	text-decoration-color: red;
+	color: red;
+	font-size: 20px;
+	padding-top: 5px;
+}
+.name{
+	color: red;
+	font-size: 20px;
+}
+.decription{
+	font-size: 18px;
+}
+ div .info{
+ 	margin-left: 30px;
+ 	float: left;
+ 	width: 56%;
+ 	margin-right: 200px;
+ }
+ .hinh img{
+ 		padding:  26px;
+ }
+ .hinh {
+ 	margin-top: 100px;
+ 	margin-right: 20px;
+ }
+ .tin{
+ 	width: 100%;
+ }
+ .rightmenu ul{
+ 	list-style-type: tigre;
+
+ }
+ .rightmenu img{
+ 	border-radius: 10px;
+ 	margin-top: 10px;
+ }
+ .rightmenu li{
+ 	list-style-type: tigre;
+ 	padding-top: 20px;
+ }
+ .bordercontact{
+
+ 	border: 2px solid black;
+ }
+ .footer_right{
+ 	float: right;
+ }
+ .footer_left{
+ 	float: left;
+ }
+ .content p{
+ 	margin-bottom:  20px;
+ }
